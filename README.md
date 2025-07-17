@@ -2,7 +2,7 @@
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL%203.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Version](https://img.shields.io/badge/version-1.0--fusion-green)
-[![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-安装脚本-orange)](https://greasyfork.org/zh-CN/scripts/542804-bilibili-未登录自由看)
+[![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-安装脚本-orange)](https://greasyfork.org/zh-CN/scripts/542804-bilibili-%E6%9C%AA%E7%99%BB%E5%BD%95%E8%87%AA%E7%94%B1%E7%9C%8B)
 
 ## 📌 简介
 
@@ -22,16 +22,16 @@
 - ✅ **Edge / Chrome / Firefox** 全平台兼容
 - ✅ **零配置**，安装即用；已登录用户自动退出，零干扰
 
-## 🖼️ 效果展示
+## 🖼️ 功能演示
 
-![功能演示](https://via.placeholder.com/800x450.png?text=Bilibili-Free-Quality+功能演示)
+![功能演示](https://img.lansq.xyz/file/3OD0iMtk.png)
 
 ## ⚙️ 安装与使用
 
 | 步骤 | 操作 |
 |---|---|
 | 1 | 安装 [Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/) |
-| 2 | [点击这里安装此脚本](https://greasyfork.org/zh-CN/scripts/YOUR-SCRIPT-ID) |
+| 2 | [点击这里安装此脚本](https://greasyfork.org/zh-CN/scripts/542804-bilibili-%E6%9C%AA%E7%99%BB%E5%BD%95%E8%87%AA%E7%94%B1%E7%9C%8B) |
 | 3 | 打开任意 B 站视频页（**确保未登录**） |
 | 4 | 右下角齿轮 → **脚本设置** 可调画质等选项 |
 
@@ -65,7 +65,7 @@
 
 ## 🔄 更新日志
 
-### v1.0-fusion (2023-XX-XX)
+### v1.0-fusion (2025-07-17)
 - 首次发布
 - 融合了防暂停和高画质两个功能脚本
 - 添加了可视化控制面板
@@ -82,7 +82,7 @@
 如果遇到问题或有任何建议：
 
 - [GitHub Issues](https://github.com/zhikanyeye/Bilibili-Free-Quality/issues)
-- [Greasy Fork 讨论区](https://greasyfork.org/zh-CN/scripts/542804-bilibili-未登录自由看/feedback)
+- [Greasy Fork 讨论区](https://greasyfork.org/zh-CN/scripts/542804/feedback)
 - 在评论区留言
 
 ## 📜 许可证
