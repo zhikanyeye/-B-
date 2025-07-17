@@ -82,7 +82,7 @@
 如果遇到问题或有任何建议：
 
 - [GitHub Issues](https://github.com/zhikanyeye/Bilibili-Free-Quality/issues)
-- [Greasy Fork 讨论区](https://greasyfork.org/zh-CN/scripts/YOUR-SCRIPT-ID/feedback)
+- [Greasy Fork 讨论区](https://greasyfork.org/zh-CN/scripts/542804-bilibili-未登录自由看/feedback)
 - 在评论区留言
 
 ## 📜 许可证
